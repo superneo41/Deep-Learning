@@ -1,6 +1,6 @@
 **Deep Learning**
 
-A self-record of learning deeplearning.ai from Coursera
+A self-learning record of deeplearning.ai from Coursera
 
 
 
