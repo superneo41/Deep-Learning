@@ -1,6 +1,6 @@
 **Deep Learning**
 
-A self-learning record of deeplearning.ai 
+A self-learning record of deeplearning.ai (Andrew.Ng)
 
   - A gradient descent version of logistic regression:    
       https://github.com/superneo41/Deep-Learning/blob/master/gradient-descent-logistic-neural-network-method.ipynb
