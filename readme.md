@@ -4,6 +4,7 @@ A self-learning record of deeplearning.ai
 
   - A gradient descent version of logistic regression:    
       https://github.com/superneo41/Deep-Learning/blob/master/gradient-descent-logistic-neural-network-method.ipynb
+  - A 3-layers shallow Neural Network:
 
 
 
